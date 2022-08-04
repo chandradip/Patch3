@@ -1,16 +1,2 @@
 {
-"load_balancing": {
-    "algorithm": "Round Robin",
-    "failover_method": "Load Balance",
-    "persistence_idle_timeout": 600,
-    "persistence_method": "Source IP",
-    "cookie_type": "Cookie Insert",
-    "cookie_name": "persistence",
-    "cookie_path": "/",
-    "cookie_domain": "",
-    "cookie_age": 15,
-    "header_name": "",
-    "parameter_name": "",
-    "source_ip_netmask": "255.255.255.255"
-  }
 }
